@@ -98,6 +98,7 @@ List of tutorial participants
 - Caitlin Fausey (University of Oregon)
 - Kate Bee (Univresity of Oregon)
 - Jasmine Engen (University of Oregon)
+- Regina Ebo (MIT)
 .. _Github issues overview:
 
 Checking for and creating issues on Github
